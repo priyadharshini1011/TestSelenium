@@ -1,0 +1,6 @@
+[1028/012823.254:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1103/074555.075:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1104/171633.746:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1105/002101.701:ERROR:file_io_win.cc(161)] CreateFile C:\Users\auhum\AppData\Local\Temp\scoped_dir19988_1900230\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1105/002101.702:ERROR:file_io_win.cc(170)] CreateFile C:\Users\auhum\AppData\Local\Temp\scoped_dir19988_1900230\Crashpad\reports\4e93e63e-d5ee-41e6-9d06-2d84f6ff7a1d.dmp: The system cannot find the path specified. (0x3)
+[1105/002101.702:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
